@@ -1,3 +1,8 @@
+"""Copyright (c) 2022, Edward Jiang
+All rights reserved.
+This source code is licensed under the GNU General Public License found in the
+LICENSE file in the root directory of this source tree."""
+
 import time, sys, os # modules that are useful
 
 # Credit to @ollieg for the functions below
